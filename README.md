@@ -3,8 +3,8 @@
 
 ![Decoder ring](https://static.wikia.nocookie.net/grimadventures/images/2/29/The_Secret_Decoder_Ring_Title_Card.png/revision/latest?cb=20150618062102)
 
-if you're like me, you probably are wondering what a decoder ring even is! Back in the day (no offense to those of more tenure) kids would rush to cereal boxes
-and obtain a plastic ring that helped them decode secret messages located on the box! I have essentially taken the fun and magic of decoding messages, and wrote
+if you're like me, you probably are wondering what a decoder ring even is! Back in the day, (no offense to those of more tenure) kids would rush to cereal boxes
+to obtain a plastic ring inside that helped them decode secret messages located on the box! I have essentially taken the fun and magic of decoding messages, and wrote
 JavaScript to allow you to encode and decode messages of your own, using 3 unique methods!
 
 
@@ -28,3 +28,5 @@ the letter B would be represented by the numerical pair 21.
 
 The substitution cipher requires a standard alphabet and a substitution alphabet. Letters from the standard alphabet will be transposed to the standard alphabet.
 This cipher requires that the recipient have the substitution alphabet, otherwise it will be difficult for them to decode the message.
+
+
