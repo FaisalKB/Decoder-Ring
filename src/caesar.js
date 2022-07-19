@@ -45,7 +45,7 @@ const caesarModule = (function () {
       // lastly we take our fully processed codes and translate them back to a string
       return typeof code === "number" ? String.fromCharCode(code) : code; // if it's a charcode, we use the method to turn it into a string with the letter based on the charcode value! otherwise, just return the character
     });
-    return arrToOutput.join(""); // Now we can return our freshly translated letters and join them together to create our string! All done!
+    return arrToOutput.join(""); // Now we can return our freshly translated letters and join them together to create our string!
   }
 
   return {
